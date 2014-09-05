@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/shoe/dev/school/packer-berkshelf-experiment/cookbook/hello-world","disabled":false},"v-csc-1":{"id":"v-csc-1","guestpath":"/tmp/vagrant-chef-3/chef-solo-1/cookbooks","hostpath":"/Users/shoe/.berkshelf/default/vagrant/berkshelf-20140905-38372-4kv14d-default","disabled":false}}}

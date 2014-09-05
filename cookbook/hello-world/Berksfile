@@ -1,0 +1,6 @@
+source "https://supermarket.getchef.com"
+
+metadata
+
+cookbook 'nginx', '~> 2.7.4'
+cookbook 'apt', '~> 2.5.3'
